@@ -83,7 +83,8 @@ streamlit run app.py
 * Show students with marks greater than 80.
 * Which student scored the highest marks?
 * Display all students from Section A.
-
+## Scrennshots
+*Contains screenshots of the application's user interface, generated SQL queries, and query results for demonstration purposes.
 ## How It Works
 
 1. Enter a question in plain English.
